@@ -1,5 +1,6 @@
-# Computing, Data Science & Society (CDSS) Modules - Spring 2022 
-## ETHSTD-21AC at University of California, Berkeley
+## Computing, Data Science & Society (CDSS) Modules
+## ETHSTD 21AC - A Comparative Survey of Racial and Ethnic Groups in the U.S
+## at University of California, Berkeley
 
 Professor: Victoria E. Robinson<br>
 Module Developers: Skye Pickett and Caitlin Yee
